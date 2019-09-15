@@ -4,7 +4,7 @@ using namespace std;
 
 char number[500001];
 
-int P_0001() {
+int main() {
 	int tc;
 	scanf("%d",&tc);
 

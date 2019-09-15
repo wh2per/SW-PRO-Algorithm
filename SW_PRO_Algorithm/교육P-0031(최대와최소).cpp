@@ -10,7 +10,7 @@ int getindex(int n) {			// 배열크기 정하기
 	return temp * 2;
 }
 
-int P_0031() {
+int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
 	cout.tie(NULL);

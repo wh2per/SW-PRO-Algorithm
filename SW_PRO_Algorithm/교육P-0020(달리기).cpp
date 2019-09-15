@@ -53,7 +53,7 @@ void merge_sort(int start, int end) {
 	}
 }
 
-int P_0020() {
+int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
 	cout.tie(NULL);

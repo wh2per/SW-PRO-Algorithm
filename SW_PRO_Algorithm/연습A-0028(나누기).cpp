@@ -32,7 +32,7 @@ void check_paper(int width, int sx, int sy) {
 	return;
 }
 
-int A_0028() {
+int main() {
 	int t;
 	scanf("%d",&t);
 	for (int k = 1; k <= t; ++k) {

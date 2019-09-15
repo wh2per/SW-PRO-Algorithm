@@ -12,7 +12,7 @@ int lcm(int a, int b) {		// 최소공배수
 	return a*b / gcd(a, b);
 }
 
-int A_0004() {
+int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
 	cout.tie(NULL);

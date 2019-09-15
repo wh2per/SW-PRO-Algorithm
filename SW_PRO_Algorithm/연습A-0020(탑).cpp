@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 
-int A_0020() {
+int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
 	cout.tie(NULL);

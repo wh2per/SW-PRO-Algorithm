@@ -10,7 +10,7 @@ int gcd_each(int a, int b) {		// 최대공약수
 		return gcd_each(b, a%b);
 }
 
-int P_0014() {
+int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
 	cout.tie(NULL);

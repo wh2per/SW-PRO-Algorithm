@@ -3,7 +3,7 @@
 #include <vector>
 using namespace std;
 
-int A_0010() {
+int main() {
 	int tc;
 	scanf("%d", &tc);
 	for (int t = 1; t <= tc; ++t) {

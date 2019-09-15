@@ -2,7 +2,7 @@
 #include <algorithm>
 using namespace std;
 
-int P_0013() {
+int main() {
 	int tc;
 	scanf("%d",&tc);
 

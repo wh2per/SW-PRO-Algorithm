@@ -10,7 +10,7 @@ bool cmp_sol(const pair<int, int>& p1, const pair<int, int>& p2) {
 		return false;
 }
 
-int A_0009() {
+int main() {
 	int tc;
 	scanf("%d", &tc);
 	for (int t = 1; t <= tc; ++t) {

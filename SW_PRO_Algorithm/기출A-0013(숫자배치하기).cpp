@@ -5,7 +5,7 @@ using namespace std;
 
 int board[11][11];
 
-int A_0013() {
+int main() {
 	int tc;
 	scanf("%d", &tc);
 	for (int t = 1; t <= tc; ++t) {

@@ -2,14 +2,14 @@
 #include <vector>
 using namespace std;
 
-int getIndex(int n) {			// 배열크기 정하기
+int getindex(int n) {			// 배열크기 정하기
 	int temp = 1;
 	while (temp < n)
 		temp = temp << 1;
 	return temp * 2;
 }
 
-int P_0019() {
+int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
 	cout.tie(NULL);
@@ -21,7 +21,7 @@ int P_0019() {
 		cin >> n >> q;
 		long long ans = 0;
 
-		int size = getIndex(n);
+		int size = getindex(n);
 		int start = size - n - 1;
 		vector <long long> v(size, 0);
 		int num = 1;

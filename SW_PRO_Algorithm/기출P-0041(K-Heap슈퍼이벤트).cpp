@@ -31,7 +31,7 @@ void query(int n) {
 	update(id, false);						// 당첨된 숫자 개수 감소
 }
 
-int P_0041() {
+int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
 	cout.tie(NULL);

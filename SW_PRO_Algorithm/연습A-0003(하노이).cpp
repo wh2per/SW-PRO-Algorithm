@@ -25,7 +25,7 @@ void hanoi(int n, int from, int by, int to) {
 	hanoi(n - 1, by, from, to);		// n-1개 원판을 2에서 1을 이용하여 3으로 옮긴다.
 }
 
-int A_0003() {
+int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
 	cout.tie(NULL);

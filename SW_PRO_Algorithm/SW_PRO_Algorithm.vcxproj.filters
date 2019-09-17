@@ -102,5 +102,8 @@
     <ClCompile Include="교육P-0007(군사도로망 ).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="교육P-0006(가장먼두도시).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

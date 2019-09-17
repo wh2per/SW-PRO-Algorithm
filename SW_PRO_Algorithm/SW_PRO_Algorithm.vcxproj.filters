@@ -93,5 +93,8 @@
     <ClCompile Include="연습P-0017(재밌는게임).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="연습P-0008(웜홀).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

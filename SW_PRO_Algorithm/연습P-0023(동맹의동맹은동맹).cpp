@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+// 서로소 집합
 
 int v[100001];
 

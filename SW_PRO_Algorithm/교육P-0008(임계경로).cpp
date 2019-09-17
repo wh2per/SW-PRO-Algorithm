@@ -19,8 +19,6 @@ int main() {
 
 		vector<vector<int>> info(n + 1);
 		map<pair<int, int>, int> cost_info;
-		//vector<pair<int, int>> cost_info;
-		// vector<vector<int>> cost_info(n+1,vector<int>(n+1,0));
 		vector<int> degree(n+1);
 		vector<int> cost(n + 1);
 

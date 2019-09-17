@@ -3,6 +3,7 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
+
 // 크루스칼 알고리즘
 vector<int> v;
 

@@ -43,7 +43,9 @@
     <ClCompile Include="교육P-0022(히스토그램에서가장큰직사각형).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="교육P-0026(최저공통조상).cpp" />
+    <ClCompile Include="교육P-0026(최저공통조상).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="교육P-0029(피보나치수).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -77,6 +79,7 @@
     <ClCompile Include="사전A-0023(카드고르기).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="사전A-0031(자율주행테스트).cpp" />
     <ClCompile Include="연습A-0002(키순서).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

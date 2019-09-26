@@ -132,5 +132,8 @@
     <ClCompile Include="사전A-0031(자율주행테스트).cpp">
       <Filter>소스 파일\06. 그래프2</Filter>
     </ClCompile>
+    <ClCompile Include="기출P-0067(가장큰최단경로).cpp">
+      <Filter>소스 파일\06. 그래프2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

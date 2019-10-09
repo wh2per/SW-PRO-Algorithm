@@ -129,9 +129,6 @@
     <ClCompile Include="교육P-0026(최저공통조상).cpp">
       <Filter>소스 파일\05. 그래프1</Filter>
     </ClCompile>
-    <ClCompile Include="사전A-0031(자율주행테스트).cpp">
-      <Filter>소스 파일\06. 그래프2</Filter>
-    </ClCompile>
     <ClCompile Include="기출P-0067(가장큰최단경로).cpp">
       <Filter>소스 파일\06. 그래프2</Filter>
     </ClCompile>
@@ -153,7 +150,13 @@
     <ClCompile Include="사전A-0019(내고장내마을).cpp">
       <Filter>소스 파일\05. 그래프1</Filter>
     </ClCompile>
+    <ClCompile Include="사전A-0031(자율주행테스트).cpp">
+      <Filter>소스 파일\05. 그래프1</Filter>
+    </ClCompile>
     <ClCompile Include="기출P-0037(섬나라).cpp">
+      <Filter>소스 파일\05. 그래프1</Filter>
+    </ClCompile>
+    <ClCompile Include="사전A-0030(기지국점검).cpp">
       <Filter>소스 파일\06. 그래프2</Filter>
     </ClCompile>
   </ItemGroup>

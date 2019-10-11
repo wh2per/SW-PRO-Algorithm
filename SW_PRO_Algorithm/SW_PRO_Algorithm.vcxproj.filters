@@ -159,5 +159,8 @@
     <ClCompile Include="사전A-0030(기지국점검).cpp">
       <Filter>소스 파일\06. 그래프2</Filter>
     </ClCompile>
+    <ClCompile Include="기출P-0003(도로 포장).cpp">
+      <Filter>소스 파일\05. 그래프1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -67,7 +67,9 @@
     <ClCompile Include="기출A-0013(숫자배치하기).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="기출P-0003(도로 포장).cpp" />
+    <ClCompile Include="기출P-0003(도로 포장).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="기출P-0005(인터스텔라).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -134,6 +136,7 @@
     <ClCompile Include="연습P-0011(K번째최단경로).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="연습P-0012(파티참석하기).cpp" />
     <ClCompile Include="연습P-0014(서로소).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

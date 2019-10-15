@@ -165,5 +165,8 @@
     <ClCompile Include="연습P-0012(파티참석하기).cpp">
       <Filter>소스 파일\06. 그래프2</Filter>
     </ClCompile>
+    <ClCompile Include="연습P-0010(상인).cpp">
+      <Filter>소스 파일\05. 그래프1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

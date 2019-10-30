@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\06. 그래프2">
       <UniqueIdentifier>{7d42638e-428f-4494-acfe-063cd7defa4c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\07. DP">
+      <UniqueIdentifier>{b453f1e9-6100-4f3c-8da0-260eb1eac48a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="기출A-0010(블록배열하기).cpp">
@@ -168,5 +171,13 @@
     <ClCompile Include="연습P-0010(상인).cpp">
       <Filter>소스 파일\05. 그래프1</Filter>
     </ClCompile>
+    <ClCompile Include="사전A-0032(타일붙이기).cpp">
+      <Filter>소스 파일\07. DP</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt">
+      <Filter>소스 파일</Filter>
+    </Text>
   </ItemGroup>
 </Project>

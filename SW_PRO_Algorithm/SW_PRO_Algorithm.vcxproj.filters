@@ -174,9 +174,15 @@
     <ClCompile Include="사전A-0032(타일붙이기).cpp">
       <Filter>소스 파일\07. DP</Filter>
     </ClCompile>
+    <ClCompile Include="사전A-0033(스마트팩토리).cpp">
+      <Filter>소스 파일\07. DP</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
+      <Filter>소스 파일</Filter>
+    </Text>
+    <Text Include="input2.txt">
       <Filter>소스 파일</Filter>
     </Text>
   </ItemGroup>

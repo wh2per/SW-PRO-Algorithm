@@ -177,6 +177,9 @@
     <ClCompile Include="사전A-0033(스마트팩토리).cpp">
       <Filter>소스 파일\07. DP</Filter>
     </ClCompile>
+    <ClCompile Include="모의P-0001(잠자는사이에).cpp">
+      <Filter>소스 파일\01. 기초 구현</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

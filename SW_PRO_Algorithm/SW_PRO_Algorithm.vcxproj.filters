@@ -186,6 +186,9 @@
     <ClCompile Include="연습I-0001(구름).cpp">
       <Filter>소스 파일\01. 기초 구현</Filter>
     </ClCompile>
+    <ClCompile Include="기출I-0001(정수그룹의합).cpp">
+      <Filter>소스 파일\01. 기초 구현</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

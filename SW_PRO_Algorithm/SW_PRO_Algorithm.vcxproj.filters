@@ -25,14 +25,14 @@
     <Filter Include="소스 파일\04. 정수론">
       <UniqueIdentifier>{4aec53b5-31a5-4719-860c-27e4e7f4bad7}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\05. 그래프1">
-      <UniqueIdentifier>{e74f314d-990c-4d49-bde1-bfb2b518ddc3}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\06. 그래프2">
-      <UniqueIdentifier>{7d42638e-428f-4494-acfe-063cd7defa4c}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\07. DP">
       <UniqueIdentifier>{b453f1e9-6100-4f3c-8da0-260eb1eac48a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\05. 그래프1%28MST,LCA%29">
+      <UniqueIdentifier>{e74f314d-990c-4d49-bde1-bfb2b518ddc3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\06. 그래프2%28최단경로%29">
+      <UniqueIdentifier>{7d42638e-428f-4494-acfe-063cd7defa4c}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -94,25 +94,25 @@
       <Filter>소스 파일\04. 정수론</Filter>
     </ClCompile>
     <ClCompile Include="교육P-0008(임계경로).cpp">
-      <Filter>소스 파일\05. 그래프1</Filter>
+      <Filter>소스 파일\05. 그래프1%28MST,LCA%29</Filter>
     </ClCompile>
     <ClCompile Include="연습A-0002(키순서).cpp">
-      <Filter>소스 파일\05. 그래프1</Filter>
+      <Filter>소스 파일\05. 그래프1%28MST,LCA%29</Filter>
     </ClCompile>
     <ClCompile Include="연습P-0017(재밌는게임).cpp">
-      <Filter>소스 파일\05. 그래프1</Filter>
+      <Filter>소스 파일\05. 그래프1%28MST,LCA%29</Filter>
     </ClCompile>
     <ClCompile Include="연습P-0023(동맹의동맹은동맹).cpp">
-      <Filter>소스 파일\05. 그래프1</Filter>
+      <Filter>소스 파일\05. 그래프1%28MST,LCA%29</Filter>
     </ClCompile>
     <ClCompile Include="연습P-0008(웜홀).cpp">
-      <Filter>소스 파일\06. 그래프2</Filter>
+      <Filter>소스 파일\06. 그래프2%28최단경로%29</Filter>
     </ClCompile>
     <ClCompile Include="교육P-0009(최단경로).cpp">
-      <Filter>소스 파일\06. 그래프2</Filter>
+      <Filter>소스 파일\06. 그래프2%28최단경로%29</Filter>
     </ClCompile>
     <ClCompile Include="교육P-0006(가장먼두도시).cpp">
-      <Filter>소스 파일\06. 그래프2</Filter>
+      <Filter>소스 파일\06. 그래프2%28최단경로%29</Filter>
     </ClCompile>
     <ClCompile Include="기출P-0041(K-Heap슈퍼이벤트).cpp">
       <Filter>소스 파일\03. 자료구조</Filter>
@@ -124,52 +124,52 @@
       <Filter>소스 파일\04. 정수론</Filter>
     </ClCompile>
     <ClCompile Include="교육P-0007(군사도로망).cpp">
-      <Filter>소스 파일\05. 그래프1</Filter>
+      <Filter>소스 파일\05. 그래프1%28MST,LCA%29</Filter>
     </ClCompile>
     <ClCompile Include="교육P-0032(패닉룸2).cpp">
-      <Filter>소스 파일\06. 그래프2</Filter>
+      <Filter>소스 파일\06. 그래프2%28최단경로%29</Filter>
     </ClCompile>
     <ClCompile Include="교육P-0026(최저공통조상).cpp">
-      <Filter>소스 파일\05. 그래프1</Filter>
+      <Filter>소스 파일\05. 그래프1%28MST,LCA%29</Filter>
     </ClCompile>
     <ClCompile Include="기출P-0067(가장큰최단경로).cpp">
-      <Filter>소스 파일\06. 그래프2</Filter>
+      <Filter>소스 파일\06. 그래프2%28최단경로%29</Filter>
     </ClCompile>
     <ClCompile Include="기출P-0005(인터스텔라).cpp">
-      <Filter>소스 파일\06. 그래프2</Filter>
+      <Filter>소스 파일\06. 그래프2%28최단경로%29</Filter>
     </ClCompile>
     <ClCompile Include="연습P-0011(K번째최단경로).cpp">
-      <Filter>소스 파일\06. 그래프2</Filter>
+      <Filter>소스 파일\06. 그래프2%28최단경로%29</Filter>
     </ClCompile>
     <ClCompile Include="기출P-0008(연방).cpp">
-      <Filter>소스 파일\05. 그래프1</Filter>
+      <Filter>소스 파일\05. 그래프1%28MST,LCA%29</Filter>
     </ClCompile>
     <ClCompile Include="기출P-0011(패닉룸).cpp">
-      <Filter>소스 파일\06. 그래프2</Filter>
+      <Filter>소스 파일\06. 그래프2%28최단경로%29</Filter>
     </ClCompile>
     <ClCompile Include="사전A-0018(인터스텔라항해).cpp">
-      <Filter>소스 파일\06. 그래프2</Filter>
+      <Filter>소스 파일\06. 그래프2%28최단경로%29</Filter>
     </ClCompile>
     <ClCompile Include="사전A-0019(내고장내마을).cpp">
-      <Filter>소스 파일\05. 그래프1</Filter>
+      <Filter>소스 파일\05. 그래프1%28MST,LCA%29</Filter>
     </ClCompile>
     <ClCompile Include="사전A-0031(자율주행테스트).cpp">
-      <Filter>소스 파일\05. 그래프1</Filter>
+      <Filter>소스 파일\05. 그래프1%28MST,LCA%29</Filter>
     </ClCompile>
     <ClCompile Include="기출P-0037(섬나라).cpp">
-      <Filter>소스 파일\05. 그래프1</Filter>
+      <Filter>소스 파일\05. 그래프1%28MST,LCA%29</Filter>
     </ClCompile>
     <ClCompile Include="사전A-0030(기지국점검).cpp">
-      <Filter>소스 파일\06. 그래프2</Filter>
+      <Filter>소스 파일\06. 그래프2%28최단경로%29</Filter>
     </ClCompile>
     <ClCompile Include="기출P-0003(도로 포장).cpp">
-      <Filter>소스 파일\05. 그래프1</Filter>
+      <Filter>소스 파일\05. 그래프1%28MST,LCA%29</Filter>
     </ClCompile>
     <ClCompile Include="연습P-0012(파티참석하기).cpp">
-      <Filter>소스 파일\06. 그래프2</Filter>
+      <Filter>소스 파일\06. 그래프2%28최단경로%29</Filter>
     </ClCompile>
     <ClCompile Include="연습P-0010(상인).cpp">
-      <Filter>소스 파일\05. 그래프1</Filter>
+      <Filter>소스 파일\05. 그래프1%28MST,LCA%29</Filter>
     </ClCompile>
     <ClCompile Include="사전A-0032(타일붙이기).cpp">
       <Filter>소스 파일\07. DP</Filter>
@@ -191,6 +191,9 @@
     </ClCompile>
     <ClCompile Include="기출P-0073(LottoMN).cpp">
       <Filter>소스 파일\04. 정수론</Filter>
+    </ClCompile>
+    <ClCompile Include="기출A-0042(해커).cpp">
+      <Filter>소스 파일\03. 자료구조</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

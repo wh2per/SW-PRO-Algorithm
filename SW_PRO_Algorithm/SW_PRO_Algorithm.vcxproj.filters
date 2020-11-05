@@ -34,6 +34,9 @@
     <Filter Include="소스 파일\06. 그래프2%28최단경로%29">
       <UniqueIdentifier>{7d42638e-428f-4494-acfe-063cd7defa4c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\08. BFS와 DFS">
+      <UniqueIdentifier>{12dd6ffd-5807-45f0-8041-30b7820138b8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="기출A-0010(블록배열하기).cpp">
@@ -193,7 +196,10 @@
       <Filter>소스 파일\04. 정수론</Filter>
     </ClCompile>
     <ClCompile Include="기출A-0042(해커).cpp">
-      <Filter>소스 파일\03. 자료구조</Filter>
+      <Filter>소스 파일\08. BFS와 DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="기출A-0037(핵심도시1).cpp">
+      <Filter>소스 파일\08. BFS와 DFS</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

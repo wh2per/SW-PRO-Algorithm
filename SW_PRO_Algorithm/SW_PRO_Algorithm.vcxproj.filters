@@ -204,6 +204,9 @@
     <ClCompile Include="기출A-0005(뒤로봐도소수).cpp">
       <Filter>소스 파일\04. 정수론</Filter>
     </ClCompile>
+    <ClCompile Include="기출A-0006(1cm의자존심).cpp">
+      <Filter>소스 파일\08. BFS와 DFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

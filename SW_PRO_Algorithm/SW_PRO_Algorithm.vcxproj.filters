@@ -207,6 +207,9 @@
     <ClCompile Include="기출A-0006(1cm의자존심).cpp">
       <Filter>소스 파일\08. BFS와 DFS</Filter>
     </ClCompile>
+    <ClCompile Include="기출A-0023(대표선수뽑기).cpp">
+      <Filter>소스 파일\08. BFS와 DFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

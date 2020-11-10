@@ -210,6 +210,9 @@
     <ClCompile Include="기출A-0023(대표선수뽑기).cpp">
       <Filter>소스 파일\08. BFS와 DFS</Filter>
     </ClCompile>
+    <ClCompile Include="기출A-0038(심해탐사).cpp">
+      <Filter>소스 파일\01. 기초 구현</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

@@ -225,6 +225,9 @@
     <ClCompile Include="기출A-0021(경로찾기).cpp">
       <Filter>소스 파일\08. BFS와 DFS</Filter>
     </ClCompile>
+    <ClCompile Include="기출A-0022(비상연락망).cpp">
+      <Filter>소스 파일\08. BFS와 DFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

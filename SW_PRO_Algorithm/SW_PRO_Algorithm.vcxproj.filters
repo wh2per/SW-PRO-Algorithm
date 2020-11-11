@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\08. BFS와 DFS">
       <UniqueIdentifier>{12dd6ffd-5807-45f0-8041-30b7820138b8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\09.문자열">
+      <UniqueIdentifier>{73d0d6c9-4934-437b-907a-c33540982c44}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="기출A-0010(블록배열하기).cpp">
@@ -212,6 +215,9 @@
     </ClCompile>
     <ClCompile Include="기출A-0038(심해탐사).cpp">
       <Filter>소스 파일\01. 기초 구현</Filter>
+    </ClCompile>
+    <ClCompile Include="기출I-0004(계산기).cpp">
+      <Filter>소스 파일\09.문자열</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

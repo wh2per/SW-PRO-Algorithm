@@ -231,6 +231,9 @@
     <ClCompile Include="기출A-0036(화성탈출).cpp">
       <Filter>소스 파일\08. BFS와 DFS</Filter>
     </ClCompile>
+    <ClCompile Include="연습A-0015(그래프 순회).cpp">
+      <Filter>소스 파일\08. BFS와 DFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

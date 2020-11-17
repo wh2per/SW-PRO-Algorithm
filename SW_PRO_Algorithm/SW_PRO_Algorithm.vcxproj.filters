@@ -237,6 +237,9 @@
     <ClCompile Include="기출A-0025(팀만들기).cpp">
       <Filter>소스 파일\08. BFS와 DFS</Filter>
     </ClCompile>
+    <ClCompile Include="기출P-0076(효율적인도로건설).cpp">
+      <Filter>소스 파일\06. 그래프2%28최단경로%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

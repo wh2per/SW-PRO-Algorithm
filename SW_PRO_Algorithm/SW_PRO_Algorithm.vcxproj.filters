@@ -231,14 +231,17 @@
     <ClCompile Include="기출A-0036(화성탈출).cpp">
       <Filter>소스 파일\08. BFS와 DFS</Filter>
     </ClCompile>
-    <ClCompile Include="연습A-0015(그래프 순회).cpp">
-      <Filter>소스 파일\08. BFS와 DFS</Filter>
-    </ClCompile>
     <ClCompile Include="기출A-0025(팀만들기).cpp">
       <Filter>소스 파일\08. BFS와 DFS</Filter>
     </ClCompile>
     <ClCompile Include="기출P-0076(효율적인도로건설).cpp">
       <Filter>소스 파일\06. 그래프2%28최단경로%29</Filter>
+    </ClCompile>
+    <ClCompile Include="연습A-0015%28그래프순회%29.cpp">
+      <Filter>소스 파일\08. BFS와 DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="교육P-0035(이진탐색2).cpp">
+      <Filter>소스 파일\07. DP</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

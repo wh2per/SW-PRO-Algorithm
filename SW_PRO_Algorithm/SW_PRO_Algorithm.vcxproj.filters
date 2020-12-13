@@ -243,6 +243,9 @@
     <ClCompile Include="교육P-0035(이진탐색2).cpp">
       <Filter>소스 파일\07. DP</Filter>
     </ClCompile>
+    <ClCompile Include="기출P-0071(던전탐험).cpp">
+      <Filter>소스 파일\06. 그래프2%28최단경로%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

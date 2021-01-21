@@ -122,6 +122,7 @@
     <ClCompile Include="기출P-0037(섬나라).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="기출P-0038(키컸으면).cpp" />
     <ClCompile Include="기출P-0041(K-Heap슈퍼이벤트).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

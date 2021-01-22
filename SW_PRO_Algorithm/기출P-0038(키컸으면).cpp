@@ -13,7 +13,7 @@ struct Q {
 	int a, b, c, i;
 }q[MAX];
 
-bool comp(const Q& q1, const Q& q2) {
+bool comp(const Q& q1, const Q& q2) {		// 키순 정렬
 	return q1.c > q2.c;
 }
 

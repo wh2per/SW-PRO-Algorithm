@@ -252,6 +252,9 @@
     <ClCompile Include="기출P-0038(키컸으면).cpp">
       <Filter>소스 파일\10. 트리</Filter>
     </ClCompile>
+    <ClCompile Include="기출P-0058(탱크).cpp">
+      <Filter>소스 파일\10. 트리</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

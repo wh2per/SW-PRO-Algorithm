@@ -146,6 +146,7 @@
     <ClCompile Include="기출P-0076(효율적인도로건설).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="기출P-0089(위대한항로).cpp" />
     <ClCompile Include="기츨A-0009(정예병사).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

@@ -258,6 +258,12 @@
     <ClCompile Include="기출P-0089(위대한항로).cpp">
       <Filter>소스 파일\06. 그래프2%28최단경로%29</Filter>
     </ClCompile>
+    <ClCompile Include="교육P-0023(의미있는 문장 찾기).cpp">
+      <Filter>소스 파일\09.문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="기출P-0142(신호등).cpp">
+      <Filter>소스 파일\06. 그래프2%28최단경로%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
